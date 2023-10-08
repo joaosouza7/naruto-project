@@ -57,7 +57,7 @@ main .character {
 }
 
 .logo {
-    background-image: url("../images/one-piece-logo.png");
+    background-image: url("../images/naruto-logo.png");
     background-size: cover;
     height: 100px;
     width: 230px;
@@ -82,7 +82,7 @@ main .character {
 
 .buttons .button {
     border: none;
-    background: #000000;
+    background: #00000079;
     cursor: pointer;
     border-radius: 50%;
 }
@@ -93,5 +93,7 @@ main .character {
 }
 
 .button img {
+    width: 90px;
+    height: 86px;
     border-radius: 50%;
 }
